@@ -28,3 +28,4 @@ Then visit `http://localhost:8000`.
 - Scroll-reveal animations (respects `prefers-reduced-motion`)
 - Accessible, semantic markup
 - Client-side contact form validation with confirmation message
+
